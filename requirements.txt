@@ -1,0 +1,16 @@
+ultralytics==8.3.0
+torch
+torchvision
+torchaudio
+
+pillow
+numpy
+
+gradio==4.29.0
+
+ollama
+requests
+
+# Optional but useful
+tqdm
+python-multipart
