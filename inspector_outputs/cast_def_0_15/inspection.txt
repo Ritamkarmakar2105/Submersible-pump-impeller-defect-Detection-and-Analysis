@@ -1,0 +1,9 @@
+Image: cast_def_0_15.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.55
+  defect: Dent in the impeller
+  cause:  Likely due to collision with foreign object
+  repair: Replacement of damaged part
+

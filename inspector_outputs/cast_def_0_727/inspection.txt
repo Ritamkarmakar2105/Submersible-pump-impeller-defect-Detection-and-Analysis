@@ -1,0 +1,14 @@
+Image: cast_def_0_727.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 2
+
+[Defect 0] conf=0.95
+  defect: Hole in impeller
+  cause:  Manufacturing error
+  repair: Replace the damaged part
+
+[Defect 1] conf=0.30
+  defect: Chipped paint or damage on surface of pump impeller
+  cause:  Manufacturing defect, material imperfection, or impact during installation or operation
+  repair: Replace damaged component, address manufacturing defects, ensure proper maintenance to prevent future occurrences
+

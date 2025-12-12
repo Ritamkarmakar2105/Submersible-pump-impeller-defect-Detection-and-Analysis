@@ -1,0 +1,9 @@
+Image: cast_def_0_815.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.62
+  defect: Crack in the metal
+  cause:  Overload stress during operation
+  repair: Replace the damaged component
+

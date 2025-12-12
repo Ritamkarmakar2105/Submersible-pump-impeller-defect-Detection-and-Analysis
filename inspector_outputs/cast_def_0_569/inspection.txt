@@ -1,0 +1,9 @@
+Image: cast_def_0_569.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.63
+  defect: Crack in metal
+  cause:  Manufacturing error, overloading, fatigue
+  repair: Replace impeller
+

@@ -1,0 +1,9 @@
+Image: cast_def_0_355.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.94
+  defect: Misshapen impeller blades
+  cause:  Overheating during operation
+  repair: Replace or rebalance impeller to correct misalignment
+

@@ -1,0 +1,9 @@
+Image: cast_def_0_308.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.53
+  defect: Pump Impeller Damage
+  cause:  Collision with Obstacle
+  repair: Replace Damaged Part
+

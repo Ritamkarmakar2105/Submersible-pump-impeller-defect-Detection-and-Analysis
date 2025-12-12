@@ -1,0 +1,9 @@
+Image: cast_def_0_520.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.53
+  defect: Hole in impeller blade
+  cause:  Manufacturing error
+  repair: Replacement of damaged part
+

@@ -1,0 +1,14 @@
+Image: cast_def_0_196.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 2
+
+[Defect 0] conf=0.75
+  defect: Misaligned or damaged impeller blade
+  cause:  Manufacturing error, assembly issue, or wear and tear
+  repair: Replacement of the affected part, realignment, or recalibration
+
+[Defect 1] conf=0.39
+  defect: Irregular shape in pump impeller.
+  cause:  Manufacturing error.
+  repair: Remanufacture the affected part.
+

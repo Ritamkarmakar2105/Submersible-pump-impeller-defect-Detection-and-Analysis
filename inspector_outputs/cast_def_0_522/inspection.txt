@@ -1,0 +1,9 @@
+Image: cast_def_0_522.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.33
+  defect: Dent in submersible pump.
+  cause:  Potential manufacturing flaw or external impact.
+  repair: Replacement of damaged component.
+

@@ -1,0 +1,9 @@
+Image: cast_def_0_598.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.98
+  defect: Chipped impeller blade
+  cause:  Collision with hard object or manufacturing defect
+  repair: Replace damaged part
+

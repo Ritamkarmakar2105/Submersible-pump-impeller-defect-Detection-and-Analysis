@@ -1,0 +1,5 @@
+Image: cast_ok_0_118.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 0
+
+No defects were sent to LLaVA. Either YOLO detected none, or all were too tiny/low-confidence.

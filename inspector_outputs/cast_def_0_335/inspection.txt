@@ -1,0 +1,14 @@
+Image: cast_def_0_335.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 2
+
+[Defect 0] conf=0.98
+  defect: Chipped metal edge of impeller.
+  cause:  Manufacturing error or impact damage.
+  repair: Replace with new part or repair the existing one.
+
+[Defect 1] conf=0.46
+  defect: Imperfection in pump impeller.
+  cause:  Mechanical stress or manufacturing error.
+  repair: Replacement or repair of the affected part.
+

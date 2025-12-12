@@ -1,0 +1,9 @@
+Image: cast_def_0_69.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.95
+  defect: Crack in metal piece
+  cause:  Manufacturing defect, fatigue failure or stress concentration
+  repair: Replace damaged part
+

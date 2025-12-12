@@ -1,0 +1,9 @@
+Image: cast_def_0_310.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.98
+  defect: Cracked edge of an impeller blade.
+  cause:  Manufacturing flaw in the plastic material.
+  repair: Replace the damaged part with a new one or perform other maintenance actions to ensure proper functioning.
+

@@ -1,0 +1,9 @@
+Image: cast_def_0_898.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.96
+  defect: 
+  cause:  Manufacturing error or damage during assembly
+  repair: Replace the damaged part
+

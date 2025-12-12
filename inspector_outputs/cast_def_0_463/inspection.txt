@@ -1,0 +1,9 @@
+Image: cast_def_0_463.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.97
+  defect: Chipped piece of material.
+  cause:  Manufacturing flaw or mechanical damage.
+  repair: Replace damaged part with new one.
+

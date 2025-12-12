@@ -1,0 +1,9 @@
+Image: cast_def_0_421.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.57
+  defect: Black spot on pump impeller
+  cause:  Manufacturing imperfection or damage during operation
+  repair: Replacement of affected part
+

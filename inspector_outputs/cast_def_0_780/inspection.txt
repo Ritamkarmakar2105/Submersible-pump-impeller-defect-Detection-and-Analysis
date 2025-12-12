@@ -1,0 +1,9 @@
+Image: cast_def_0_780.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.64
+  defect: Lift marks on submersible pump impeller.
+  cause:  Manufacturing process error.
+  repair: Replace damaged part with new one or repair if possible.
+

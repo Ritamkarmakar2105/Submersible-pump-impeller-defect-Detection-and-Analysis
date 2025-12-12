@@ -1,0 +1,9 @@
+Image: cast_def_0_315.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.49
+  defect: Small circular imperfection
+  cause:  Potential manufacturing flaw or damage during operation
+  repair: Replacement of impeller or repair of affected component
+

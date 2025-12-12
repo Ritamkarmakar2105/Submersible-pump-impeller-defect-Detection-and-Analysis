@@ -1,0 +1,9 @@
+Image: cast_def_0_68.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.54
+  defect: Damage to impeller blade
+  cause:  Manufacturing error or wear and tear
+  repair: Replace damaged part
+

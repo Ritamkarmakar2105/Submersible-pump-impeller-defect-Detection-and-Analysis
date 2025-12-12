@@ -1,0 +1,9 @@
+Image: cast_def_0_910.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.21
+  defect: Impeller damage
+  cause:  Manufacturing defect, collision with solid object
+  repair: Replace damaged part, regular maintenance and inspection
+

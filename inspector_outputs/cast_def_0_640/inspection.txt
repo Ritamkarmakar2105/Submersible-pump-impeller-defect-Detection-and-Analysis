@@ -1,0 +1,9 @@
+Image: cast_def_0_640.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.75
+  defect: Pump impeller damage
+  cause:  Manufacturing defect or wear and tear
+  repair: Replace damaged impeller
+

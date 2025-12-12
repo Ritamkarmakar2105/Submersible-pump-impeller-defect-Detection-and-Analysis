@@ -1,0 +1,9 @@
+Image: cast_def_0_40.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.33
+  defect: Paint chip
+  cause:  Accident/Collision
+  repair: Touch up and repainting
+

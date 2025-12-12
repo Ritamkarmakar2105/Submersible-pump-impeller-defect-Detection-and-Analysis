@@ -1,0 +1,9 @@
+Image: cast_def_0_163.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.29
+  defect: Damaged metal structure
+  cause:  Manufacturing flaw, excessive pressure, impact damage
+  repair: Replacement of damaged component
+

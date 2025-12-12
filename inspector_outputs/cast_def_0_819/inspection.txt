@@ -1,0 +1,9 @@
+Image: cast_def_0_819.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.92
+  defect: Cracked rubber on pump impeller
+  cause:  Manufacturing defect, mishandling during installation, or wear and tear from use
+  repair: Replace the damaged part with a new one
+

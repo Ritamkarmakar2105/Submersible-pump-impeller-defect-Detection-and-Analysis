@@ -1,0 +1,14 @@
+Image: cast_def_0_363.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 2
+
+[Defect 0] conf=0.94
+  defect: Crack
+  cause:  Manufacturing defect or material fatigue
+  repair: Replace the damaged part
+
+[Defect 1] conf=0.28
+  defect: Imperfection in pump impeller
+  cause:  Manufacturing error or wear and tear
+  repair: Replace damaged part
+

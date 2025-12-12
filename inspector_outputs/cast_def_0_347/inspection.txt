@@ -1,0 +1,14 @@
+Image: cast_def_0_347.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 2
+
+[Defect 0] conf=0.76
+  defect: Chipped surface
+  cause:  Material failure due to impact or stress
+  repair: Replace impeller
+
+[Defect 1] conf=0.36
+  defect: Edge deformation
+  cause:  Manufacturing irregularity
+  repair: Replace the affected part
+

@@ -1,0 +1,9 @@
+Image: cast_def_0_608.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.95
+  defect: Chipped paint on rim of object.
+  cause:  Accidental impact during manufacturing or installation.
+  repair: Sanding and repainting the affected area.
+

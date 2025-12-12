@@ -1,0 +1,14 @@
+Image: cast_def_0_846.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 2
+
+[Defect 0] conf=0.64
+  defect: Oval shape anomaly in impeller.
+  cause:  Manufacturing defect or accidental damage.
+  repair: Replace the damaged part or remachining to restore proper shape and functionality.
+
+[Defect 1] conf=0.31
+  defect: Bubble in the metal material
+  cause:  Air entrapment during manufacturing process
+  repair: Remove bubble and smooth out surface to ensure proper function and prevent potential leaks
+

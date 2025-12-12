@@ -1,0 +1,9 @@
+Image: cast_def_0_404.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.31
+  defect: Tear in the material
+  cause:  Manufacturing defect
+  repair: Replace the impeller
+

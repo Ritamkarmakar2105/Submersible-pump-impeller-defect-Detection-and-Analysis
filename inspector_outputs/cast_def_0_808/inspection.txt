@@ -1,0 +1,9 @@
+Image: cast_def_0_808.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.97
+  defect: Crack in metal object.
+  cause:  Excessive force during operation or manufacturing error.
+  repair: Replace with new part or repair the damage if feasible.
+

@@ -1,0 +1,9 @@
+Image: cast_def_0_110.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.70
+  defect: Large crack on metal surface.
+  cause:  Manufacturing defect, overstress, or wear and tear.
+  repair: Replace the part with a new one to avoid leakage or failure.
+

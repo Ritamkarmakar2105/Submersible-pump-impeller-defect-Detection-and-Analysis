@@ -1,0 +1,9 @@
+Image: cast_def_0_841.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.96
+  defect: Chipped surface
+  cause:  Impact during assembly or operation
+  repair: Replace damaged impeller
+

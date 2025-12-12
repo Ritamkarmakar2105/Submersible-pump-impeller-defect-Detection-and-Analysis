@@ -1,0 +1,9 @@
+Image: cast_def_0_401.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.49
+  defect: Small hole in middle of image.
+  cause:  Potential manufacturing flaw, wear and tear over time.
+  repair: Replace damaged part, possibly with a new or repaired pump impeller.
+

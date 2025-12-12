@@ -1,0 +1,14 @@
+Image: cast_def_0_907.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 2
+
+[Defect 0] conf=0.91
+  defect: Damage to impeller blade edges.
+  cause:  Manufacturing defect or damage during installation or operation.
+  repair: Replacement of damaged parts, proper assembly and alignment, regular maintenance to prevent future occurrence.
+
+[Defect 1] conf=0.38
+  defect: Large hole in center of object.
+  cause:  Manufacturing defect or damage from use.
+  repair: Replace damaged part or attempt to repair the defect if feasible.
+

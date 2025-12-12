@@ -1,0 +1,5 @@
+train: D:/submersible pump impeller defect Detection analysis/Annotated dataset/train/images
+val: D:/submersible pump impeller defect Detection analysis/Annotated dataset/valid/images
+
+names:
+  0: defect

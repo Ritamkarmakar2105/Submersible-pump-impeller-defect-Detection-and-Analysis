@@ -1,0 +1,14 @@
+Image: cast_def_0_409.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 2
+
+[Defect 0] conf=0.61
+  defect: Black spot on surface of pump impeller.
+  cause:  Manufacturing flaw or wear and tear during operation.
+  repair: Replace the damaged part or modify pump design to prevent future occurrence.
+
+[Defect 1] conf=0.25
+  defect: Misshapen ring
+  cause:  Manufacturing irregularity or stress point
+  repair: Replace and rebalance the impeller
+

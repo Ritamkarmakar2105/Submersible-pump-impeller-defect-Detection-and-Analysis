@@ -1,0 +1,14 @@
+Image: cast_def_0_502.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 2
+
+[Defect 0] conf=0.98
+  defect: Crack in impeller.
+  cause:  Manufacturing defect, material fatigue.
+  repair: Replace impeller.
+
+[Defect 1] conf=0.22
+  defect: Bent blade
+  cause:  Manufacturing error
+  repair: Replace damaged part
+

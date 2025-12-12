@@ -1,0 +1,9 @@
+Image: cast_def_0_31.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.62
+  defect: Dent on impeller blade
+  cause:  Manufacturing defect, impact damage
+  repair: Replace or repair affected part
+

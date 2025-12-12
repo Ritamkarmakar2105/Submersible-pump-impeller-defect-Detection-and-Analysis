@@ -1,0 +1,9 @@
+Image: cast_def_0_503.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.97
+  defect: Misalignment
+  cause:  Manufacturing error
+  repair: Replace impeller
+

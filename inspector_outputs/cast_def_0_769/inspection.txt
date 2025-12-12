@@ -1,0 +1,9 @@
+Image: cast_def_0_769.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.97
+  defect: Crack in the impeller.
+  cause:  Manufacturing flaw or impact damage.
+  repair: Replace the impeller.
+

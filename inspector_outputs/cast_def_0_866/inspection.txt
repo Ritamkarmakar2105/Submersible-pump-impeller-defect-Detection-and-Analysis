@@ -1,0 +1,9 @@
+Image: cast_def_0_866.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.97
+  defect: Chipped part of impeller.
+  cause:  Manufacturing flaw, impact damage, or wear and tear.
+  repair: Replace or repair the damaged component, depending on severity.
+

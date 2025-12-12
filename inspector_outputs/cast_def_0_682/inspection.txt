@@ -1,0 +1,9 @@
+Image: cast_def_0_682.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.54
+  defect: Black spot in center of image
+  cause:  Potential manufacturing imperfection, foreign object embedded in the material
+  repair: Replace or remove affected section
+

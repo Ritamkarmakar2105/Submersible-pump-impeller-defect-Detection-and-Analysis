@@ -1,0 +1,9 @@
+Image: cast_def_0_768.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.93
+  defect: Sharp edge on metal part
+  cause:  Machine malfunction, manufacturing error
+  repair: Grinding or filing to smooth out sharp edges
+

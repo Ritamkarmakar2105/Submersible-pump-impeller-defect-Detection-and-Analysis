@@ -1,0 +1,9 @@
+Image: cast_def_0_200.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.30
+  defect: Part of the pump impeller is missing.
+  cause:  Manufacturing error or damage during operation.
+  repair: Replace the damaged part with a new one or repair it if possible.
+

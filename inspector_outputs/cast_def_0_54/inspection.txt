@@ -1,0 +1,9 @@
+Image: cast_def_0_54.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.93
+  defect: Sharp edges on blade
+  cause:  Manufacturing irregularity
+  repair: Replace the damaged part
+

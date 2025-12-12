@@ -1,0 +1,14 @@
+Image: cast_def_0_148.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 2
+
+[Defect 0] conf=0.43
+  defect: Pit or crack in pump impeller.
+  cause:  Manufacturing flaw or wear and tear.
+  repair: Replace the damaged part or seek professional repair service.
+
+[Defect 1] conf=0.23
+  defect: Crack in submersible pump impeller.
+  cause:  Manufacturing flaw, fatigue from use.
+  repair: Replace damaged part and conduct maintenance on the entire assembly to ensure all parts are functioning properly.
+

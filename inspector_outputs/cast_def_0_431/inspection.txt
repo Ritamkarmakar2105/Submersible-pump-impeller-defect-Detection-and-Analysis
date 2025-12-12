@@ -1,0 +1,14 @@
+Image: cast_def_0_431.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 2
+
+[Defect 0] conf=0.62
+  defect: Bubbles or imperfections in material surface.
+  cause:  Manufacturing defect, stress concentration, manufacturing fault.
+  repair: Replace damaged parts or adjust manufacturing process to prevent future occurrences.
+
+[Defect 1] conf=0.27
+  defect: Dent on impeller.
+  cause:  Manufacturing or installation error.
+  repair: Adjustment or replacement required for optimal performance.
+

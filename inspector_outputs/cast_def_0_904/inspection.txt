@@ -1,0 +1,9 @@
+Image: cast_def_0_904.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.66
+  defect: Black spot on impeller.
+  cause:  Potential manufacturing flaw or damage during operation.
+  repair: Replacement of affected part with new one, possibly with a sealant to prevent further issues.
+

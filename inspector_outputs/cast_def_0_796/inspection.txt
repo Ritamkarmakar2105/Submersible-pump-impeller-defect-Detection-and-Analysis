@@ -1,0 +1,14 @@
+Image: cast_def_0_796.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 2
+
+[Defect 0] conf=0.94
+  defect: Dented edge of metal part
+  cause:  Manufacturing error, impact during installation or use
+  repair: Replace with new, undamaged part
+
+[Defect 1] conf=0.26
+  defect: Sharp edge on metal object
+  cause:  Manufacturing flaw in production process
+  repair: Replace with a new part, ensure proper manufacturing processes for future parts
+

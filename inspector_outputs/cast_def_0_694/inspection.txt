@@ -1,0 +1,9 @@
+Image: cast_def_0_694.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.96
+  defect: Misaligned metal piece
+  cause:  Manufacturing error in assembly
+  repair: Realign and reassemble properly
+

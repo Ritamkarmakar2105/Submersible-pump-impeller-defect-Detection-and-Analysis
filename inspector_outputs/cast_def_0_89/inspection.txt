@@ -1,0 +1,14 @@
+Image: cast_def_0_89.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 2
+
+[Defect 0] conf=0.94
+  defect: 
+  cause:  Manufacturing defect
+  repair: Replace the damaged part
+
+[Defect 1] conf=0.56
+  defect: Spot
+  cause:  Manufacturing error or damage during production or installation
+  repair: Replacement of the damaged part
+

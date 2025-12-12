@@ -1,0 +1,14 @@
+Image: cast_def_0_354.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 2
+
+[Defect 0] conf=0.35
+  defect: Chipped edge of metal object
+  cause:  Possible impact or stress fracture
+  repair: Replacement, welding or machining
+
+[Defect 1] conf=0.34
+  defect: Indentation in metal
+  cause:  Manufacturing defect or damage during operation
+  repair: Replacement or repair of damaged parts
+

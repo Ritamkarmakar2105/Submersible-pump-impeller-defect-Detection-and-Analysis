@@ -1,0 +1,9 @@
+Image: cast_def_0_8.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.73
+  defect: Missing parts of the impeller.
+  cause:  Wear and tear, manufacturing error, or damage from use.
+  repair: Replacement or part fabrication.
+

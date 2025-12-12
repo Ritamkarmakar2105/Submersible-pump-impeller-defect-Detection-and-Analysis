@@ -1,0 +1,7 @@
+# data.yaml for finetuning on hard defect cases
+
+train: D:/submersible pump impeller defect Detection analysis/Dataset for finetuning/train/images
+val: D:/submersible pump impeller defect Detection analysis/Dataset for finetuning/valid/images
+
+names:
+  0: defect

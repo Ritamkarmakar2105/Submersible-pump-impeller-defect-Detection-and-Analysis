@@ -1,0 +1,9 @@
+Image: cast_def_0_451.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.40
+  defect: Small object in lower right corner of image.
+  cause:  Part of an assembly.
+  repair: Replace the damaged part.
+

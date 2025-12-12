@@ -1,0 +1,9 @@
+Image: cast_def_0_581.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.90
+  defect: Dent in metal part
+  cause:  Manufacturing error, collision with sharp object
+  repair: Replace damaged part or repair with welding and machining
+

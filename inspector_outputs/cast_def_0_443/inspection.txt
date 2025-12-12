@@ -1,0 +1,9 @@
+Image: cast_def_0_443.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.96
+  defect: Missing piece of rubber seal.
+  cause:  Manufacturing error, damage from operation.
+  repair: Replace the damaged impeller and seal it properly.
+

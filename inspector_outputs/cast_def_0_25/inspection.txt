@@ -1,0 +1,9 @@
+Image: cast_def_0_25.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.68
+  defect: Missing section on submersible pump impeller
+  cause:  Potential manufacturing error or damage during installation or operation
+  repair: Replacement of damaged part with a new one
+

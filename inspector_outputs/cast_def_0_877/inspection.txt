@@ -1,0 +1,9 @@
+Image: cast_def_0_877.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.94
+  defect: Damaged shaft or impeller blade.
+  cause:  Possible manufacturing error, wear and tear, or collision with foreign object.
+  repair: Replace the damaged part with a new one.
+

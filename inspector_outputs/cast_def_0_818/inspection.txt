@@ -1,0 +1,19 @@
+Image: cast_def_0_818.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 3
+
+[Defect 0] conf=0.58
+  defect: Chipped paint on edge of impeller.
+  cause:  Potential manufacturing flaw or wear and tear.
+  repair: Clean, sand, apply primer and repaint the affected area.
+
+[Defect 1] conf=0.42
+  defect: Split or damage on the impeller blade.
+  cause:  Possible manufacturing defect, mishandling during installation or repair, or excessive stress on the material causing cracks.
+  repair: Replace damaged part with a new one to ensure proper function of the pump.
+
+[Defect 2] conf=0.22
+  defect: Missing part in the pump impeller.
+  cause:  Design error or manufacturing flaw.
+  repair: Replace the damaged pump impeller with a new one.
+

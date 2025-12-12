@@ -1,0 +1,9 @@
+Image: cast_def_0_194.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.95
+  defect: Large crack in impeller.
+  cause:  Mechanical stress or fatigue over time.
+  repair: Replace the damaged part to ensure functionality and prevent leaks.
+

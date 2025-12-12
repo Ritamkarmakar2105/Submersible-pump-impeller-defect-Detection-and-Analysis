@@ -1,0 +1,9 @@
+Image: cast_def_0_126.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.97
+  defect: Damaged metal ring in pump impeller
+  cause:  Manufacturing error or malfunction during operation
+  repair: Replace damaged component
+

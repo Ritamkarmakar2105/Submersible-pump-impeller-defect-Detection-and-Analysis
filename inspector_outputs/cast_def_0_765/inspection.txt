@@ -1,0 +1,9 @@
+Image: cast_def_0_765.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.93
+  defect: Crack in metal disc
+  cause:  Manufacturing defect, stress concentrations
+  repair: Replacement of the damaged part
+

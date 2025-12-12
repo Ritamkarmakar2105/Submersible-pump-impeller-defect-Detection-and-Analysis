@@ -1,0 +1,9 @@
+Image: cast_def_0_131.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.96
+  defect: Sharp edge on impeller.
+  cause:  Manufacturing error, misalignment during assembly.
+  repair: Replace the damaged part or rework it to smooth out sharp edges.
+

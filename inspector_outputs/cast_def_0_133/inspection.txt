@@ -1,0 +1,9 @@
+Image: cast_def_0_133.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.56
+  defect: Dent in metal.
+  cause:  Manufacturing flaw, manufacturing error, impact damage.
+  repair: Replacement of part, repair of dent if within tolerance limits.
+

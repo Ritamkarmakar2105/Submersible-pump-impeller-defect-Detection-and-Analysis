@@ -1,0 +1,9 @@
+Image: cast_def_0_794.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.95
+  defect: Misaligned impeller blades
+  cause:  Manufacturing error or damage during assembly
+  repair: Realignment or replacement of the misaligned part
+

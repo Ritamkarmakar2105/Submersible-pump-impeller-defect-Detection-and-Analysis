@@ -1,0 +1,9 @@
+Image: cast_def_0_597.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.61
+  defect: Damage to the impeller blade
+  cause:  
+  repair: 
+

@@ -1,0 +1,14 @@
+Image: cast_def_0_380.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 2
+
+[Defect 0] conf=0.49
+  defect: The image shows a small crack in the submersible pump impeller.
+  cause:  Cracks like this one typically result from fatigue, corrosion, or mechanical stress during operation.
+  repair: If the crack is detected early enough and not too deep, it can be repaired using specialized techniques such as welding or brazing to reinforce the area and prevent further damage.
+
+[Defect 1] conf=0.25
+  defect: Small hole in the center of impeller.
+  cause:  Manufacturing error, foreign object damage, or wear and tear.
+  repair: Replace damaged part with new one or repair through welding if feasible.
+

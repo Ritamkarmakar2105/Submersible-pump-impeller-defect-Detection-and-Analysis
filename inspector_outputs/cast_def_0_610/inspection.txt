@@ -1,0 +1,14 @@
+Image: cast_def_0_610.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 2
+
+[Defect 0] conf=0.77
+  defect: Uneven surface of impeller blade.
+  cause:  Manufacturing error or wear and tear.
+  repair: Replace the affected part or refinish the impeller to ensure smooth operation.
+
+[Defect 1] conf=0.29
+  defect: Missing piece of material.
+  cause:  Manufacturing defect or damage from operation.
+  repair: Replace the damaged component.
+

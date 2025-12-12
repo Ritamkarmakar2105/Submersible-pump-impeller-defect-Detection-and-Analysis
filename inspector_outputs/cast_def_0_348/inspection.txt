@@ -1,0 +1,9 @@
+Image: cast_def_0_348.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.46
+  defect: Small imperfection in pump impeller
+  cause:  Manufacturing error, stress concentration during assembly, or wear from operation
+  repair: Replace the damaged impeller with a new one
+

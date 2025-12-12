@@ -1,0 +1,9 @@
+Image: cast_def_0_66.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.51
+  defect: Crack in object's surface.
+  cause:  Manufacturing issue or wear and tear.
+  repair: Replace the damaged part or patch the crack with a filler material.
+

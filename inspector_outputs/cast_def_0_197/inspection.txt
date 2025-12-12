@@ -1,0 +1,9 @@
+Image: cast_def_0_197.jpeg
+Annotated image: full.jpg
+Total defects explained by LLaVA: 1
+
+[Defect 0] conf=0.96
+  defect: Dent in metal disc.
+  cause:  Impact or collision with hard object.
+  repair: Replace damaged parts for proper functioning.
+
